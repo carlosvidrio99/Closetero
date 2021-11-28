@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Closetero</string>
+    <string name="strUsuario">Usuario:</string>
+    <string name="strContra">Contraseña:</string>
+    <string name="strInvitado">Invitado</string>
+    <string name="strIniciarSesión">Iniciar sesión</string>
+    <string name="strRegistro">Registro</string>
+    <string name="desired_username">Nombre de usuario</string>
+    <string name="enter_your_first_name">Nombre</string>
+    <string name="enter_password">Contraseña</string>
+    <string name="enter_last_name">Apellido</string>
+    <string name="enter_valid_email_id_optional_">Correo Electrónico</string>
+    <string name="re_enter_password">La misma contraseña (otra vez)</string>
 </resources>
